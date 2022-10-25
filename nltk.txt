@@ -1,0 +1,6 @@
+omw-1.4
+wordnet
+pros_cons
+punkt
+stopwords
+averaged_perceptron_tagger
